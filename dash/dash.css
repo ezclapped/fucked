@@ -1,0 +1,20 @@
+#skull {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="text"],
+input[type="password"] {
+    background-color: #1B1B20 !important;
+}
+
+.bg-gray-200{
+    --tw-bg-opacity: 1;
+    background-color: rgb(18,18,20);
+}
+
+.dexoboxregister {
+    width: clamp(300px, 90%, 500px);
+
+}
